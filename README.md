@@ -1,4 +1,4 @@
-# Monte-Carlo-Integration-Project
+# Monte-Carlo-Integration-Visualization
 
 ## Project Description
 
